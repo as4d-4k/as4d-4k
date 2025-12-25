@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Asad Ullah Rehman, a Computer Science student passionate about turning complex algorithms into user-friendly applications. With hands-on experience in Full Stack Development (React & Flask) and AI Integration, I enjoy building everything from sentiment analysis tools to interactive games. I am a deliberate thinker who loves solving logic puzzles and am currently seeking opportunities to launch my career in software development or cybersecurity.
+Motivated Computer Science student and Full Stack Developer with a strong foundation in Python. Proven experience bridging the gap between web development and AI, including deploying machine learning models to the web. Recipient of a 'Top Performer' award in Generative AI, passionate about building secure, efficient, and scalable software solutions.
 
 
 ## 🌐 Socials:
